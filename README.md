@@ -1,16 +1,19 @@
-### Hi there 👋
+# Rajatha Haputhanthri
 
-<!--
-**RajathaDH/RajathaDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Recent Projects
 
-Here are some ideas to get you started:
+MiniURL - A URL shortener
+- [Repository](https://github.com/RajathaDH/MiniURL)
+- [Visit MiniURL](http://rd-mini-url.surge.sh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whiteboard - A collaborative whiteboard
+- [Repository](https://github.com/RajathaDH/Whiteboard)
+- [Visit Whiteboard](http://rajaboard.surge.sh)
+
+Sorting Algorithm Visualizer - An application to visualize various sorting algorithms
+- [Repository](https://github.com/RajathaDH/Sorting-Algorithm-Visualizer)
+- [Visit Sorting Algorithm Visualizer](http://rajasort.surge.sh)
+
+Typing Speed Tester - An application to check your typing speed
+- [Repository](https://github.com/RajathaDH/Typing-Speed-Tester)
+- [Visit Typing Speed Tester](http://typetypetype.surge.sh)
